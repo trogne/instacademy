@@ -1,7 +1,15 @@
 composer global require "laravel/installer=~1.1"
 
+git config --global user.email "patrick.fiset@gmail.com"
+git config --global user.name "Patrick Fiset"
+
 git init
 Initialized empty Git repository in /cygdrive/c/xampp/htdocs/phpacademy/deplarforenv/.git/
 
+#git add README.md
+
 git add .
 git status
+git commit -m "First commit de miko"
+git remote add origin https://github.com/trogne/instacademy.git
+git push -u origin master
