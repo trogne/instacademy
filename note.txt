@@ -16,3 +16,25 @@ git push -u origin master
 (pull = contraire de push)
 
 
+sites : edit .env !!! database = forge  etc...
+
+ssh-keygen -t rsa
+(name instacademy)
+
+cat instacademy.pub
+
+forge server : set key
+
+ssh forge@159.203.32.42 -i /home/PF/.ssh/instacademy
+
+sudo service nginx restart
+97NmJnG3dGoSkoYbY1i8 (sudo password, on l'entre une seule fois)
+
+Name:	instacademy
+IP Address:	159.203.32.42
+Username:	forge
+Sudo Password:	97NmJnG3dGoSkoYbY1i8
+Database Username:	forge
+Database Password:	xQFBVBLcBb9G8zGMJdiU
+
+
