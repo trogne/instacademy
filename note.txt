@@ -12,6 +12,7 @@ git add .
 git status
 git commit -m "First commit de miko"
 git remote add origin https://github.com/trogne/instacademy.git
-git push -u origin master  (pull = contraire de push)
+git push -u origin master
+(pull = contraire de push)
 
 
